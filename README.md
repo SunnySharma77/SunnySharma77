@@ -115,17 +115,17 @@
 <br/>  
 
 
-## Recent Blog Posts  
+Recent Blog Posts  
 
 
-### A Beginner's Guide to Frontend Development  
+A Beginner's Guide to Frontend Development  
 Frontend development is all about creating the part of a website or app that users interact with directly. It involves using HTML to structure content, CSS to style it, and JavaScript to make it interactive.
   
   
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><strong>Thanks for Visiting.....👍</strong></div>  
 
 <br/>  
 
