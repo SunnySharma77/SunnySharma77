@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/c426ab25731e651ec3305fd5cb6bbacec6bcce8363281528dad0af81f6a339d5/68747470733a2f2f6d79776562323030322e77337370616365732e636f6d2f4e65772d504e432d416e696d617465642d42616e6e6572732e676966" alt="Animated Banner">
+![Example Image](https://media.licdn.com/dms/image/v2/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174916441?e=1732752000&v=beta&t=ELf1JyNZ1ylkXRk4wMarAqz6xzYgjxq9OepVrg6noIY)
  <div align="center"><strong>I'm Sunny sharma ,a front-end Developer🚀</strong></div>  
   <div align="center">👌Mastering the Art of Frontend Development: Building Interactive and User-Friendly Web Interfaces✌️</div>
   <img align="right" alt="Coding" width="350"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF">
