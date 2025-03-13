@@ -1,4 +1,4 @@
-![Example Image](https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg)
+![Example Image](https://www.webstep.in/wp-content/uploads/2022/11/web-development-with-MERN-stack.jpg)
 
 <div align="center">
   <strong>I'm Sunny Sharma, a Front-End Developer 🚀</strong>
