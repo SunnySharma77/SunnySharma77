@@ -1,7 +1,7 @@
 ![Example Image](https://www.webstep.in/wp-content/uploads/2022/11/web-development-with-MERN-stack.jpg)
 
 <div align="center">
-  <strong>I'm Sunny Sharma, a Front-End Developer 🚀</strong>
+  <strong>I'm Sunny Sharma, a Full stake Developer 🚀</strong>
 </div>  
 
 <div align="center">
