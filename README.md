@@ -1,4 +1,4 @@
-![Example Image](https://media.licdn.com/dms/image/v2/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174916441?e=1732752000&v=beta&t=ELf1JyNZ1ylkXRk4wMarAqz6xzYgjxq9OepVrg6noIY)
+![Example Image]('https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg')
  <div align="center"><strong>I'm Sunny sharma ,a front-end Developer🚀</strong></div>  
   <div align="center">👌Mastering the Art of Frontend Development: Building Interactive and User-Friendly Web Interfaces✌️</div>
   <img align="right" alt="Coding" width="350"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF">
