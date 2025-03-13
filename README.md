@@ -1,18 +1,19 @@
-![Example Image]('https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg')
- <div align="center"><strong>I'm Sunny sharma ,a front-end Developer🚀</strong></div>  
-  <div align="center">👌Mastering the Art of Frontend Development: Building Interactive and User-Friendly Web Interfaces✌️</div>
-  <img align="right" alt="Coding" width="350"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF">
+![Example Image](https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg)
 
-- 🔭 I’m currently working on A Full stake Project  
-  
+<div align="center">
+  <strong>I'm Sunny Sharma, a Front-End Developer 🚀</strong>
+</div>  
 
-- 🌱 I’m currently learning React and Telwind  
-  
+<div align="center">
+  👌 Mastering the Art of Frontend Development: Building Interactive and User-Friendly Web Interfaces ✌️
+</div>
 
-- ❓ Ask me about anything related to UI&UX Designs  
-  
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- ⚡ Fun fact: I use tabs over spaces  
+- 🔭 I’m currently working on a Full Stack Project  
+- 🌱 I’m currently learning React and Tailwind  
+- ❓ Ask me about anything related to UI & UX Design  
+- ⚡ Fun fact: I use tabs over spaces 
   
 
 <br/>  
