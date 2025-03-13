@@ -8,7 +8,7 @@
   👌 Mastering the Art of Frontend Development: Building Interactive and User-Friendly Web Interfaces ✌️
 </div>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://t3.ftcdn.net/jpg/09/75/22/52/240_F_975225259_Q65byDz9rgIj2Py6AcwZyeV7ywNG0Tuj.jpg">
 
 - 🔭 I’m currently working on a Full Stack Project  
 - 🌱 I’m currently learning React and Tailwind  
