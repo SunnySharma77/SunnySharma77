@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Sunny Sharma  
 
-🎓 **BCA Student** | 💻 **Python Enthusiast** | 🤖 **Aspiring AI Engineer**  
+🎓 **BCA Student** | 💻 **Python & AI Enthusiast** | 🤖 **Aspiring AI Engineer**  
 
 🚀 *“By the end of my journey, I don’t just want to understand AI — I want to build it.”*  
 
@@ -15,11 +15,21 @@
 
 ### 🔹 Programming & Development  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
+
+### 🔹 Web Development (Frontend + Backend)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
 ---
 
@@ -48,6 +58,22 @@
 
 ---
 
+### 🔹 Core CS Subjects  
+- 📡 **Computer Networks**  
+- 💽 **Operating System (OS)**  
+- 🗄️ **DBMS (Database Management Systems)**  
+- ⚙️ **SDLC (Software Development Life Cycle)**  
+- 📊 **Data Structures & Algorithms (Python)**  
+
+---
+
+### 🔹 Mathematics for AI & ML  
+- 📈 **Probability & Statistics**  
+- 📐 **Linear Algebra**  
+- 🔢 **Calculus (Light)**  
+
+---
+
 ## 🛠️ Projects  
 
 - 🤖 **AI Chatbot with GPT APIs** – Conversational AI using Python + FastAPI.  
@@ -57,6 +83,7 @@
 - 🌦️ **Weather App** – API-based Python project.  
 - 🐳 **Dockerized AI App** – Deployed FastAPI + Ollama LLM app with Docker.  
 
+---
 
 ## 📊 GitHub Stats  
 
@@ -69,6 +96,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SunnySharma77&theme=radical&margin-w=15&margin-h=15&column=6" alt="Trophies" />
 </p>
 
+---
 
 ## 🎯 Career Goals  
 
@@ -82,4 +110,4 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SunnySharma77)  
