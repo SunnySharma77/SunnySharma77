@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&margin-w=15&margin-h=15&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SunnySharma77&theme=radical&margin-w=15&margin-h=15&column=6" alt="Trophies" />
 </p>
 
 
