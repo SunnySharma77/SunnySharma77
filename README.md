@@ -1,6 +1,6 @@
 <!-- Motivational Banner (AI Generated Image / Stock Image link) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&auto=format&fit=crop&w=1400&q=80" alt="AI Inspiration" width="100%" />
+  <img src="https://static.gigabyte.com/StaticFile/Image/Global/21cc277f4d6f22bb4cbb791cb36df48a/ModelSectionChildItem/6977/png" />
 </p>
 
 # 👋 Hi, I'm Sunny Sharma  
