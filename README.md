@@ -1,10 +1,13 @@
+<!-- Motivational Banner (AI Generated Image / Stock Image link) -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&auto=format&fit=crop&w=1400&q=80" alt="AI Inspiration" width="100%" />
+</p>
+
 # 👋 Hi, I'm Sunny Sharma  
 
-🎓 BCA Student | 💻 Python Enthusiast | 🤖 Aspiring AI Engineer  
+🎓 **BCA Student** | 💻 **Python Enthusiast** | 🤖 **Aspiring AI Engineer**  
 
-Welcome to my GitHub!  
-I am passionate about **Python, AI/LLMs, and building real-world AI products**.  
-Currently focusing on **AI Engineering, LangChain, RAG Systems, and Conversational AI**.  
+🚀 *“By the end of my journey, I don’t just want to understand AI — I want to build it.”*  
 
 ---
 
@@ -47,12 +50,25 @@ Currently focusing on **AI Engineering, LangChain, RAG Systems, and Conversation
 
 ## 🛠️ Projects  
 
-- **🤖 AI Chatbot with GPT APIs** – Conversational AI using Python + FastAPI.  
-- **📄 Chat with PDF (RAG System)** – Upload documents and get AI-powered answers.  
-- **🎙️ AI Voice Assistant (Jarvis Clone)** – STT + GPT + TTS-based voice agent.  
-- **🎬 Movie Recommendation System** – ML-based recommender system.  
-- **🌦️ Weather App** – API-based Python project.  
-- **🐳 Dockerized AI App** – Deployed FastAPI + Ollama LLM app with Docker.  
+- 🤖 **AI Chatbot with GPT APIs** – Conversational AI using Python + FastAPI.  
+- 📄 **Chat with PDF (RAG System)** – Upload documents and get AI-powered answers.  
+- 🎙️ **AI Voice Assistant (Jarvis Clone)** – STT + GPT + TTS-based voice agent.  
+- 🎬 **Movie Recommendation System** – ML-based recommender system.  
+- 🌦️ **Weather App** – API-based Python project.  
+- 🐳 **Dockerized AI App** – Deployed FastAPI + Ollama LLM app with Docker.  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&margin-w=15&margin-h=15&column=6" alt="Trophies" />
+</p>
 
 ---
 
@@ -69,7 +85,3 @@ Currently focusing on **AI Engineering, LangChain, RAG Systems, and Conversation
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
-
----
-
-✨ *“By the end of my journey, I don’t just want to understand AI — I want to build it.”*  
